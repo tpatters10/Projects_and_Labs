@@ -3,9 +3,9 @@ This repo is my organized, practical record of what I’ve learned and built—n
 ## 🔧 Current Projects
 - 🗃️ Building a NAS from an old desktop using Ubuntu Server and Samba
 - ✉️ Helping my dad reduce spam with filtering tools and email hygiene best practices
-- 🎯 Preparing for the  eJPT/ PJPT (not sure which one i will go with)
+- 🎯 Preparing for the  PJPT 
 - 🔐 Working through Hack The Box labs for security skills
-
+- Use VulnHub to  practice pen testing in an internal network environment 
 ---
 
 ## 📂 Repo Structure
@@ -15,6 +15,7 @@ This repo is my organized, practical record of what I’ve learned and built—n
 | `spam-filter-project/` | Notes and tools used to fight spam emails |
 | `htb-writeups/` | General strategy writeups for Hack The Box |
 | `certification-notes/` | Study notes and reflections from past and upcoming certs |
+| 'Internal network Pentest Lab'|
 | `scripts/` | Small Bash or Python scripts I've written for lab use |
 | `TODO.md` | Running list of ideas, next projects, and future goals |
 
@@ -28,7 +29,7 @@ This repo is my organized, practical record of what I’ve learned and built—n
 | Microsoft Azure AI-900 | ✅ Completed |
 | CompTIA ITF+ | ✅ Completed |
 | CompTIA Network+ | ✅ Completed|
-| eJPT | 🕐 In progress |
+| PJPT | 🕐 In progress |
 | Pentest+/Linux+ | ⚠️ Next up ! |
 
 ---
